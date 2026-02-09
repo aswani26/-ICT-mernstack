@@ -1,0 +1,21 @@
+h1{
+    color:rgb(73, 165, 42);
+    text-align:center ;
+}
+p{
+    font-size: x-large;
+    background-color:rgb(60, 143, 231);
+    color: rgb(8, 236, 54);
+}
+#welcome{
+    color:rgb(42, 54, 165);
+    text-align:center ;
+}
+th,td,table{ 
+    border-color: darkred;
+}
+.class2{
+    background-color: cadetblue;
+    margin: 40 20px;
+    padding: 10px;
+}
