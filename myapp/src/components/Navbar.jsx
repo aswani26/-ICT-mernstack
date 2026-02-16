@@ -17,14 +17,7 @@ const Navbar = () => {
                 </Link>
                 <Link to='/table'>
                 <Button variant="contained" color='info'>table</Button> </Link>&nbsp; &nbsp;
-                <Link to='/state'>
-                <Button variant="contained" color='info'>state</Button> </Link>&nbsp; &nbsp;
-                <Link to='/count'>
-                <Button variant="contained" color='info'>count</Button> </Link>&nbsp; &nbsp;
-                <Link to='/name'>
-                <Button variant="contained" color='info'>Name</Button> </Link>&nbsp; &nbsp;
-                <Link to='/card'>
-                <Button variant="contained" color='info'>card</Button> </Link>&nbsp; &nbsp;
+                
             </Toolbar>
         </AppBar>
         <br /> <br />
